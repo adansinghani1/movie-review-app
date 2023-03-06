@@ -28,8 +28,11 @@ Have you ever had trouble finding a TV show or movie to watch or just don't have
 - TheMovieDB detail movie API
 - TheMovieDB discover movie API
 
-# Heroku
+# Heroku (Doesn't support multiple buildpacks in Free Tier)
 http://mighty-shelf-43642.herokuapp.com/login
+
+# Fly.io
+https://movie-review-app.fly.dev/
 
 # Clones the repository
 - In Visual Studio Code, creating a new directory where clone the code
